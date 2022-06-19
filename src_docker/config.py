@@ -11,7 +11,7 @@ params = {
 
 config = {
   # kafka
-  'kafka_broker': '192.168.1.19:9092',
+  'kafka_broker': 'localhost:9092',
   # topics
   'topic_1': 'topic_{0}'.format(params['currency_1']),
   'topic_2': 'topic_{0}'.format(params['currency_2']),
