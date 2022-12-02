@@ -1,5 +1,5 @@
 # Cryptocurrency Realtime Prices Detection
-Project Practice for BADS7205 Data Streaming and Realtime Analytics
+Project for Data Streaming and Realtime Analytics
 
 ## Idea & objective:
 * Pactical realtime data analytic and configuration sofware tool.
